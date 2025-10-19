@@ -19,6 +19,19 @@ Découvrez l'ancienne version de ce projet **RandomSims** 🎲🎮 juste [ici](h
 
 ## 📅 Mises à jour
 
+### 19 octobre 2025 🏕️
+
+- Ajout du pack **Sortie à l'aventure** 🎒⛺:
+  - Ajout du métier **Personnel du parc** avec deux branches :
+    - **Animateur du parc** : animez les activités et guidez les touristes
+    - **Garde-forestier** : protégez et entretenez les espaces naturels
+  - Ajout de deux nouveaux traits de personnalité :
+    - **Esprit de compétition** : les Sims aiment défier les autres et se surpasser
+    - **Imagination active** : les Sims ont une créativité débordante et voient le monde différemment (venu avec l'événement Amitié éternelle)
+  - Ajout d'une nouvelle aspiration :
+    - **Chasseur de bestioles** : explorez les mondes fantastiques et apprenez tout sur les bestioles
+  - Ajout de la nouvelle map **Point Gibbi** : découvrez un paysage luxuriant avec des créatures intrigantes et des merveilles naturelles
+
 ### 25 juillet 2025 💼
 
 - Ajout du pack **Business et Loisir** 🏢💰:
